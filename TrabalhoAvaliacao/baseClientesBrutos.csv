@@ -1,0 +1,101 @@
+IDCliente;NomeCliente;FabricanteVeiculo;ModeloVeiculo;AnoFabricacaoVeiculo;TensaoMaxima
+IDCliente_1;Arthur Resende;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_2;Gabriela Mendes;BYD;D11B (Articulado);2023;750
+IDCliente_3;Rogerio Menezes;Marcopolo;Attivi Integral;2023;650
+IDCliente_4;Leandro Ferreira;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_5;Lucas Ribeiro;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_6;Mauricio Quadros;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_7;Vinicius Peixoto;BYD;D11B (Articulado);2023;750
+IDCliente_8;Luana Farias;BYD;D9W (Urbano Padron);2024;750
+IDCliente_9;Vanessa Ribeiro;Marcopolo;Attivi Integral;2023;650
+IDCliente_10;Priscila Freire;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_11;Priscila Lacerda;Marcopolo;Attivi Integral;2023;650
+IDCliente_12;Fernanda Pereira;Marcopolo;Attivi Integral;2023;650
+IDCliente_13;Ana Silva;Marcopolo;Attivi Integral;2023;650
+IDCliente_14;Andreia Toledo;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_15;Julia Diniz;BYD;D9W (Urbano Padron);2024;750
+IDCliente_16;Marcos Neves;BYD;D11B (Articulado);2023;750
+IDCliente_17;Larissa Prado;Volvo;BZL Electric;2024;600
+IDCliente_18;Eduardo Lima;BYD;D11B (Articulado);2023;750
+IDCliente_19;Tania Maciel;BYD;D11B (Articulado);2023;750
+IDCliente_20;Patrick Sampaio;BYD;D9W (Urbano Padron);2024;750
+IDCliente_21;Bruno Santos;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_22;Sonia Nazario;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_23;Leticia Dornelas;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_24;Viviane Dornas;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_25;Murilo Carvalho;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_26;Denis Valente;Marcopolo;Attivi Integral;2023;650
+IDCliente_27;Matheus Veras;Volvo;BZL Electric;2024;600
+IDCliente_28;Danielle Moreira;BYD;D11B (Articulado);2023;750
+IDCliente_29;Camila Araujo;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_30;Rodrigo Alves;BYD;D9W (Urbano Padron);2024;750
+IDCliente_31;William Dorneles;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_32;Mayara Sanches;Marcopolo;Attivi Integral;2023;650
+IDCliente_33;Milena Fagundes;BYD;D11B (Articulado);2023;750
+IDCliente_34;Caio Antunes;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_35;Renata Martins;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_36;Carlos Oliveira;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_37;Marcelo Vieira;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_38;Talita Montenegro;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_39;Paloma Lemos;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_40;Thiago Rocha;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_41;Tatiane Costa;BYD;D11B (Articulado);2023;750
+IDCliente_42;Renan Junqueira;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_43;Luiza Peçanha;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_44;Rafael Assis;BYD;D11B (Articulado);2023;750
+IDCliente_45;Yago Sales;Volvo;BZL Electric;2024;600
+IDCliente_46;Poliana Portela;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_47;Stefany Meireles;Volvo;BZL Electric;2024;600
+IDCliente_48;Gustavo Novaes;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_49;Mariana Carvalho;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_50;Nayara Villela;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_51;Giovanna Franco;BYD;D9W (Urbano Padron);2024;750
+IDCliente_52;Fabio Reis;Volvo;BZL Electric;2024;600
+IDCliente_53;Sabrina Pires;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_54;Lorena Fontes;Marcopolo;Attivi Integral;2023;650
+IDCliente_55;Raissa Frota;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_56;Debora Dornas;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_57;Erick Guerra;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_58;Thiago Couto;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_59;Thais Bicalho;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_60;Daniela Souza;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_61;Geraldo Alencar;Marcopolo;Attivi Integral;2023;650
+IDCliente_62;Nathalia Rocha;Marcopolo;Attivi Integral;2023;650
+IDCliente_63;Igor Almeida;BYD;D11B (Articulado);2023;750
+IDCliente_64;Ricardo Cardoso;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_65;Monique Guimaraes;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_66;Amanda Rodrigues;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_67;Vitor Fonseca;Marcopolo;Attivi Integral;2023;650
+IDCliente_68;Samuel Lopes;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_69;Ronaldo Goulart;Volvo;BZL Electric;2024;600
+IDCliente_70;Patricia Machado;Marcopolo;Attivi Integral;2023;650
+IDCliente_71;Jessica Azevedo;BYD;D9W (Urbano Padron);2024;750
+IDCliente_72;Diego Melo;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_73;Cesar Paiva;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_74;Isabela Borges;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_75;Carolina Barbosa;Marcopolo;Attivi Integral;2023;650
+IDCliente_76;Kamila Bragança;Volvo;BZL Electric;2024;600
+IDCliente_77;Juliana Nascimento;Marcopolo;Attivi Integral;2023;650
+IDCliente_78;Reinaldo Fraga;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_79;Caio Schimidt;Marcopolo;Attivi Integral;2023;650
+IDCliente_80;Allan Caldeira;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_81;Heloisa Viana;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650
+IDCliente_82;Bianca Cunha;BYD;D11B (Articulado);2023;750
+IDCliente_83;Otavio Castro;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_84;Felipe Nogueira;Volvo;BZL Electric;2024;600
+IDCliente_85;Alexandre Duarte;Volvo;BZL Electric;2024;600
+IDCliente_86;Jefferson Siqueira;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_87;Aline Teixeira;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_88;Pedro Gomes;Marcopolo;Attivi Integral;2023;650
+IDCliente_89;Fabricio Lourenço;Marcopolo;Attivi Integral;2023;650
+IDCliente_90;Ruan Beyer;Volvo;BZL Electric;2024;600
+IDCliente_91;Larissa Cruz;Ankai;HFF6120G03EV (Urbano);2024;700
+IDCliente_92;Douglas Godoy;BYD;D11B (Articulado);2023;750
+IDCliente_93;Wesley Aguiar;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_94;Leonardo Malta;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_95;Gabriel Costa;Mercedes-Benz;eO500U (Electro);2023;750
+IDCliente_96;Roberto Souza;Marcopolo;Attivi Integral;2023;650
+IDCliente_97;Manuela Campos;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_98;Hiago Dorneles;Volvo;BZL Electric;2024;600
+IDCliente_99;Beatriz Ramos;Eletra;e-Bus 12.1m (Chassi Scania/WEG);2024;650
+IDCliente_100;Leticia Dias;Eletra;e-Bus 15m (Chassi Mercedes/WEG);2024;650

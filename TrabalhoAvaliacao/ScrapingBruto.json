@@ -1,0 +1,282 @@
+[
+    {
+        "IDScraping": "SCRAP_1",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_7394.html",
+        "DataColeta": "2026-01-17 23:58:13",
+        "HTMLBruto": "O debate sobre a infraestrutura de recarga em Porto Real ganha força positiva. Especialistas apontam que a nova rede de alta tensão implementada pela Lumina mitigou os antigos problemas de oscilação, garantindo um carregamento linear e extremamente seguro para as frotas pesadas."
+    },
+    {
+        "IDScraping": "SCRAP_2",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_3695.html",
+        "DataColeta": "2026-05-23 04:28:07",
+        "HTMLBruto": "Postagens rastreadas no Fórum Energia Real criticam duramente o descaso com os pontos de recarga do Distrito Industrial. Relatos apontam que a falta de cobertura física deixa os equipamentos expostos às intempéries climáticas, acelerando a degradação e causando curto-circuitos."
+    },
+    {
+        "IDScraping": "SCRAP_3",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_7638.html",
+        "DataColeta": "2026-04-03 04:41:47",
+        "HTMLBruto": "A polêmica sobre os reajustes tarifários da Lumina Energy ganhou novos capítulos esta semana. Blogueiros de finanças locais argumentam que os aumentos sucessivos sem uma contrapartida na manutenção dos carregadores quebrados podem frear a adesão à eletrificação na região."
+    },
+    {
+        "IDScraping": "SCRAP_4",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_783.html",
+        "DataColeta": "2026-04-02 13:44:25",
+        "HTMLBruto": "Moradores de bairros populosos de Porto Real organizaram um abaixo-assinado virtual cobrando transparência da Lumina Energy. Segundo postagens inflamadas no Blog da Comunidade, o faturamento confuso e as taxas flutuantes inviabilizam o planejamento financeiro dos motoristas autônomos."
+    },
+    {
+        "IDScraping": "SCRAP_5",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_1909.html",
+        "DataColeta": "2026-03-23 00:21:00",
+        "HTMLBruto": "O debate sobre a infraestrutura de recarga em Porto Real ganha força positiva. Especialistas apontam que a nova rede de alta tensão implementada pela Lumina mitigou os antigos problemas de oscilação, garantindo um carregamento linear e extremamente seguro para as frotas pesadas."
+    },
+    {
+        "IDScraping": "SCRAP_6",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_867.html",
+        "DataColeta": "2026-01-28 04:54:20",
+        "HTMLBruto": "Análise profunda do mercado energético mostra que a Lumina Energy domina o setor em Porto Real com inovação. O grande acerto técnico foi a integração do protocolo OCPP com os novos inversores da WEG, resultando em uma eficiência energética sem precedentes no país."
+    },
+    {
+        "IDScraping": "SCRAP_7",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_263.html",
+        "DataColeta": "2026-01-11 02:33:39",
+        "HTMLBruto": "Análise profunda do mercado energético mostra que a Lumina Energy domina o setor em Porto Real com inovação. O grande acerto técnico foi a integração do protocolo OCPP com os novos inversores da WEG, resultando em uma eficiência energética sem precedentes no país."
+    },
+    {
+        "IDScraping": "SCRAP_8",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_1215.html",
+        "DataColeta": "2026-04-01 03:47:16",
+        "HTMLBruto": "A polêmica sobre os reajustes tarifários da Lumina Energy ganhou novos capítulos esta semana. Blogueiros de finanças locais argumentam que os aumentos sucessivos sem uma contrapartida na manutenção dos carregadores quebrados podem frear a adesão à eletrificação na região."
+    },
+    {
+        "IDScraping": "SCRAP_9",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_2815.html",
+        "DataColeta": "2026-01-04 09:41:56",
+        "HTMLBruto": "Relatório técnico independente acende um sinal vermelho para a segurança dos eletropostos na Cidade Alta. Amostras coletadas indicam que picos severos de corrente elétrica ocorrem quando múltiplos ônibus pesados tentam utilizar o sistema simultaneamente, gerando riscos de pane."
+    },
+    {
+        "IDScraping": "SCRAP_10",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_4364.html",
+        "DataColeta": "2026-01-08 12:34:19",
+        "HTMLBruto": "Moradores de bairros populosos de Porto Real organizaram um abaixo-assinado virtual cobrando transparência da Lumina Energy. Segundo postagens inflamadas no Blog da Comunidade, o faturamento confuso e as taxas flutuantes inviabilizam o planejamento financeiro dos motoristas autônomos."
+    },
+    {
+        "IDScraping": "SCRAP_11",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_5847.html",
+        "DataColeta": "2026-04-07 02:02:40",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_12",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_7610.html",
+        "DataColeta": "2026-04-09 13:22:32",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_13",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_1357.html",
+        "DataColeta": "2026-05-12 00:47:32",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_14",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_9806.html",
+        "DataColeta": "2026-03-16 10:16:44",
+        "HTMLBruto": "Entrevistas realizadas no Blog da Comunidade revelam alto índice de satisfação com os novos eletropostos instalados nos bairros periféricos. Motoristas de vans municipais relatam que a transição para a matriz elétrica reduziu os custos operacionais de transporte em até quarenta por cento."
+    },
+    {
+        "IDScraping": "SCRAP_15",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_9749.html",
+        "DataColeta": "2026-03-17 02:06:27",
+        "HTMLBruto": "O debate sobre a infraestrutura de recarga em Porto Real ganha força positiva. Especialistas apontam que a nova rede de alta tensão implementada pela Lumina mitigou os antigos problemas de oscilação, garantindo um carregamento linear e extremamente seguro para as frotas pesadas."
+    },
+    {
+        "IDScraping": "SCRAP_16",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_510.html",
+        "DataColeta": "2026-02-28 13:14:18",
+        "HTMLBruto": "Especialistas em urbanismo destacam no fórum Mobilidade do Amanhã que a infraestrutura planejada pela Lumina Energy ajudou a reduzir drasticamente os índices de poluição sonora e atmosférica nas grandes avenidas do Centro Histórico durante os horários de pico."
+    },
+    {
+        "IDScraping": "SCRAP_17",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_5281.html",
+        "DataColeta": "2026-04-21 00:01:49",
+        "HTMLBruto": "O Portal Energia do Futuro publicou um artigo celebrando o sucesso da operação dos eletropostos rápidos na rodovia de Porto Real. A facilidade de pagamento integrada via carteiras digitais e Pix reduziu o tempo de parada dos veículos de entrega interestaduais."
+    },
+    {
+        "IDScraping": "SCRAP_18",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_3968.html",
+        "DataColeta": "2026-05-09 04:16:52",
+        "HTMLBruto": "Um review técnico detalhado publicado no portal Eletromobilidade Real elogiou a estabilidade dos novos carregadores de 750V instalados no Jardim Oceânico. O autor ressalta que, apesar do investimento inicial, o custo-benefício para frotas comerciais é imbatível a longo prazo."
+    },
+    {
+        "IDScraping": "SCRAP_19",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_112.html",
+        "DataColeta": "2026-01-29 00:32:02",
+        "HTMLBruto": "O debate sobre a infraestrutura de recarga em Porto Real ganha força positiva. Especialistas apontam que a nova rede de alta tensão implementada pela Lumina mitigou os antigos problemas de oscilação, garantindo um carregamento linear e extremamente seguro para as frotas pesadas."
+    },
+    {
+        "IDScraping": "SCRAP_20",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_4501.html",
+        "DataColeta": "2026-03-10 08:15:27",
+        "HTMLBruto": "Moradores de bairros populosos de Porto Real organizaram um abaixo-assinado virtual cobrando transparência da Lumina Energy. Segundo postagens inflamadas no Blog da Comunidade, o faturamento confuso e as taxas flutuantes inviabilizam o planejamento financeiro dos motoristas autônomos."
+    },
+    {
+        "IDScraping": "SCRAP_21",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_9817.html",
+        "DataColeta": "2026-01-09 00:22:34",
+        "HTMLBruto": "Especialistas em urbanismo destacam no fórum Mobilidade do Amanhã que a infraestrutura planejada pela Lumina Energy ajudou a reduzir drasticamente os índices de poluição sonora e atmosférica nas grandes avenidas do Centro Histórico durante os horários de pico."
+    },
+    {
+        "IDScraping": "SCRAP_22",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_9685.html",
+        "DataColeta": "2026-02-09 02:55:52",
+        "HTMLBruto": "Gargalos estruturais graves continuam gerando dor de cabeça. Usuários de um conhecido fórum automotivo local alertam que a recorrente queda de tensão registrada nos sensores dos postes aponta para o subdimensionamento crônico da rede elétrica controlada pela concessionária regional."
+    },
+    {
+        "IDScraping": "SCRAP_23",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_280.html",
+        "DataColeta": "2026-01-16 09:46:35",
+        "HTMLBruto": "O Portal Energia do Futuro publicou um artigo celebrando o sucesso da operação dos eletropostos rápidos na rodovia de Porto Real. A facilidade de pagamento integrada via carteiras digitais e Pix reduziu o tempo de parada dos veículos de entrega interestaduais."
+    },
+    {
+        "IDScraping": "SCRAP_24",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_9935.html",
+        "DataColeta": "2026-02-06 01:27:56",
+        "HTMLBruto": "O Portal Energia do Futuro publicou um artigo celebrando o sucesso da operação dos eletropostos rápidos na rodovia de Porto Real. A facilidade de pagamento integrada via carteiras digitais e Pix reduziu o tempo de parada dos veículos de entrega interestaduais."
+    },
+    {
+        "IDScraping": "SCRAP_25",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_1549.html",
+        "DataColeta": "2026-02-10 18:26:23",
+        "HTMLBruto": "Especialistas em urbanismo destacam no fórum Mobilidade do Amanhã que a infraestrutura planejada pela Lumina Energy ajudou a reduzir drasticamente os índices de poluição sonora e atmosférica nas grandes avenidas do Centro Histórico durante os horários de pico."
+    },
+    {
+        "IDScraping": "SCRAP_26",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_5382.html",
+        "DataColeta": "2026-02-17 12:54:09",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_27",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_5644.html",
+        "DataColeta": "2026-04-30 12:52:28",
+        "HTMLBruto": "Especialistas em urbanismo destacam no fórum Mobilidade do Amanhã que a infraestrutura planejada pela Lumina Energy ajudou a reduzir drasticamente os índices de poluição sonora e atmosférica nas grandes avenidas do Centro Histórico durante os horários de pico."
+    },
+    {
+        "IDScraping": "SCRAP_28",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_380.html",
+        "DataColeta": "2026-01-02 00:04:37",
+        "HTMLBruto": "A polêmica sobre os reajustes tarifários da Lumina Energy ganhou novos capítulos esta semana. Blogueiros de finanças locais argumentam que os aumentos sucessivos sem uma contrapartida na manutenção dos carregadores quebrados podem frear a adesão à eletrificação na região."
+    },
+    {
+        "IDScraping": "SCRAP_29",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_8015.html",
+        "DataColeta": "2026-03-14 04:32:52",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_30",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_8760.html",
+        "DataColeta": "2026-03-01 03:47:48",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_31",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_1230.html",
+        "DataColeta": "2026-01-15 17:34:52",
+        "HTMLBruto": "Um review técnico detalhado publicado no portal Eletromobilidade Real elogiou a estabilidade dos novos carregadores de 750V instalados no Jardim Oceânico. O autor ressalta que, apesar do investimento inicial, o custo-benefício para frotas comerciais é imbatível a longo prazo."
+    },
+    {
+        "IDScraping": "SCRAP_32",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_8912.html",
+        "DataColeta": "2026-01-28 11:50:59",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_33",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_912.html",
+        "DataColeta": "2026-01-25 02:54:53",
+        "HTMLBruto": "Relatório técnico independente acende um sinal vermelho para a segurança dos eletropostos na Cidade Alta. Amostras coletadas indicam que picos severos de corrente elétrica ocorrem quando múltiplos ônibus pesados tentam utilizar o sistema simultaneamente, gerando riscos de pane."
+    },
+    {
+        "IDScraping": "SCRAP_34",
+        "SiteOrigem": "Fórum Energia do Futuro",
+        "UrlColeta": "https://forum.energiafuturo.com/topico/artigo_4181.html",
+        "DataColeta": "2026-05-29 03:48:27",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    },
+    {
+        "IDScraping": "SCRAP_35",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_1075.html",
+        "DataColeta": "2026-04-17 13:07:46",
+        "HTMLBruto": "Gargalos estruturais graves continuam gerando dor de cabeça. Usuários de um conhecido fórum automotivo local alertam que a recorrente queda de tensão registrada nos sensores dos postes aponta para o subdimensionamento crônico da rede elétrica controlada pela concessionária regional."
+    },
+    {
+        "IDScraping": "SCRAP_36",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_6586.html",
+        "DataColeta": "2026-01-30 15:42:58",
+        "HTMLBruto": "Análise profunda do mercado energético mostra que a Lumina Energy domina o setor em Porto Real com inovação. O grande acerto técnico foi a integração do protocolo OCPP com os novos inversores da WEG, resultando em uma eficiência energética sem precedentes no país."
+    },
+    {
+        "IDScraping": "SCRAP_37",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_7589.html",
+        "DataColeta": "2026-01-28 11:27:41",
+        "HTMLBruto": "A polêmica sobre os reajustes tarifários da Lumina Energy ganhou novos capítulos esta semana. Blogueiros de finanças locais argumentam que os aumentos sucessivos sem uma contrapartida na manutenção dos carregadores quebrados podem frear a adesão à eletrificação na região."
+    },
+    {
+        "IDScraping": "SCRAP_38",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_1683.html",
+        "DataColeta": "2026-02-01 14:57:56",
+        "HTMLBruto": "Relatório técnico independente acende um sinal vermelho para a segurança dos eletropostos na Cidade Alta. Amostras coletadas indicam que picos severos de corrente elétrica ocorrem quando múltiplos ônibus pesados tentam utilizar o sistema simultaneamente, gerando riscos de pane."
+    },
+    {
+        "IDScraping": "SCRAP_39",
+        "SiteOrigem": "Portal Eletromobilidade Real",
+        "UrlColeta": "https://eletromobilidadereal.com/noticias/artigo_5972.html",
+        "DataColeta": "2026-04-04 04:16:39",
+        "HTMLBruto": "A polêmica sobre os reajustes tarifários da Lumina Energy ganhou novos capítulos esta semana. Blogueiros de finanças locais argumentam que os aumentos sucessivos sem uma contrapartida na manutenção dos carregadores quebrados podem frear a adesão à eletrificação na região."
+    },
+    {
+        "IDScraping": "SCRAP_40",
+        "SiteOrigem": "Blog Mobilidade Porto Real",
+        "UrlColeta": "https://blog.mobilidadeprt.com.br/artigos/artigo_7319.html",
+        "DataColeta": "2026-04-18 04:07:07",
+        "HTMLBruto": "Usuários relatam no Twitter e em blogs de tecnologia uma vulnerabilidade severa no pareamento do aplicativo da Lumina. Dezenas de motoristas alegam que o sistema não encerra a sessão de cobrança após o cabo ser desconectado, continuando a faturar minutos fantasmas dos clientes."
+    }
+]

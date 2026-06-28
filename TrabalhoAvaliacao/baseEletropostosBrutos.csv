@@ -1,0 +1,501 @@
+IDEletroposto;EnderecoCompletoEletroposto;QtdePosicoesRecarga;CapacidadeMaximaCarga
+ELETRO_1;Estrada da Paz, Cidade Alta - Porto Real - Brasil;15;600
+ELETRO_2;Vila Anita Garibaldi, Novo Horizonte - Porto Real - Brasil;1;600
+ELETRO_3;Praça da Inovação, Bela Vista - Porto Real - Brasil;1;650
+ELETRO_4;Beco Castro Alves, Mirante do Sol - Porto Real - Brasil;15;750
+ELETRO_5;Alameda Central, Bairro das Nações - Porto Real - Brasil;1;650
+ELETRO_6;Avenida Pixinguinha, Vale Verde - Porto Real - Brasil;1;750
+ELETRO_7;Praça Tarsila do Amaral, Jardim Oceânico - Porto Real - Brasil;15;750
+ELETRO_8;Vila Volta Redonda, Alphaville Real - Porto Real - Brasil;15;650
+ELETRO_9;Rodovia da Inovação, Bairro das Nações - Porto Real - Brasil;15;750
+ELETRO_10;Rua Michael Faraday, Ribeirão Preto - Porto Real - Brasil;15;700
+ELETRO_11;Beco da Sustentabilidade, Cidade Alta - Porto Real - Brasil;15;650
+ELETRO_12;Vila da Sustentabilidade, Portal do Vale - Porto Real - Brasil;1;650
+ELETRO_13;Travessa Treze de Maio, Estação Central - Porto Real - Brasil;15;600
+ELETRO_14;Avenida Volta Redonda, Portal do Vale - Porto Real - Brasil;15;650
+ELETRO_15;Praça Chico Buarque, Jardim Botânico - Porto Real - Brasil;15;600
+ELETRO_16;Rodovia Monteiro Lobato, Vale Verde - Porto Real - Brasil;1;750
+ELETRO_17;Beco do Progresso, Bairro das Nações - Porto Real - Brasil;15;600
+ELETRO_18;Rua Central, Distrito Industrial - Porto Real - Brasil;15;600
+ELETRO_19;Avenida Benjamin Franklin, Vale Verde - Porto Real - Brasil;1;750
+ELETRO_20;Praça Monteiro Lobato, Santa Teresa - Porto Real - Brasil;15;750
+ELETRO_21;Travessa Caetano Veloso, Alto da Colina - Porto Real - Brasil;15;700
+ELETRO_22;Alameda Tarsila do Amaral, Novo Horizonte - Porto Real - Brasil;15;750
+ELETRO_23;Avenida Gilberto Gil, Bela Vista - Porto Real - Brasil;1;600
+ELETRO_24;Alameda Caetano Veloso, Bela Vista - Porto Real - Brasil;1;600
+ELETRO_25;Avenida Quinze de Novembro, Mirante do Sol - Porto Real - Brasil;15;700
+ELETRO_26;Passagem James Watt, Boavista - Porto Real - Brasil;1;600
+ELETRO_27;Travessa Central, Alphaville Real - Porto Real - Brasil;1;600
+ELETRO_28;Praça Duque de Caxias, Aeroporto - Porto Real - Brasil;15;700
+ELETRO_29;Rodovia Candido Portinari, Novo Horizonte - Porto Real - Brasil;15;700
+ELETRO_30;Passagem Anita Garibaldi, Santo Antônio - Porto Real - Brasil;15;750
+ELETRO_31;Rodovia Tarsila do Amaral, Boavista - Porto Real - Brasil;1;650
+ELETRO_32;Estrada Chico Buarque, Mirante do Sol - Porto Real - Brasil;15;700
+ELETRO_33;Beco das Orquídeas, Distrito Industrial - Porto Real - Brasil;1;600
+ELETRO_34;Passagem Candido Portinari, Parque Tecnológico - Porto Real - Brasil;1;750
+ELETRO_35;Beco Elis Regina, Portal do Vale - Porto Real - Brasil;15;700
+ELETRO_36;Beco da Sustentabilidade, Parque Tecnológico - Porto Real - Brasil;1;600
+ELETRO_37;Vila Alessandro Volta, Bela Vista - Porto Real - Brasil;15;650
+ELETRO_38;Rodovia Clarice Lispector, Alphaville Real - Porto Real - Brasil;1;750
+ELETRO_39;Travessa Jorge Amado, Aeroporto - Porto Real - Brasil;1;650
+ELETRO_40;Alameda Michael Faraday, Ribeirão Preto - Porto Real - Brasil;1;750
+ELETRO_41;Travessa Oscar Niemeyer, Centro Histórico - Porto Real - Brasil;15;750
+ELETRO_42;Rua Thomas Edison, Porto Novo - Porto Real - Brasil;15;700
+ELETRO_43;Rodovia Tiradentes, Vila Nova - Porto Real - Brasil;1;650
+ELETRO_44;Estrada André Ampère, Vila Nova - Porto Real - Brasil;1;600
+ELETRO_45;Vila Nikola Tesla, Porto Novo - Porto Real - Brasil;1;700
+ELETRO_46;Estrada Sete de Setembro, Boavista - Porto Real - Brasil;1;600
+ELETRO_47;Praça Castro Alves, Santo Antônio - Porto Real - Brasil;15;600
+ELETRO_48;Travessa das Orquídeas, São João - Porto Real - Brasil;1;700
+ELETRO_49;Praça Chico Buarque, Vale Verde - Porto Real - Brasil;15;650
+ELETRO_50;Alameda Georg Ohm, Santo Antônio - Porto Real - Brasil;1;700
+ELETRO_51;Passagem da Sustentabilidade, Boavista - Porto Real - Brasil;15;600
+ELETRO_52;Estrada Jorge Amado, Cidade Alta - Porto Real - Brasil;15;650
+ELETRO_53;Passagem do Progresso, Distrito Industrial - Porto Real - Brasil;15;650
+ELETRO_54;Estrada Jorge Amado, Vila Nova - Porto Real - Brasil;1;600
+ELETRO_55;Avenida Caetano Veloso, Alphaville Real - Porto Real - Brasil;1;750
+ELETRO_56;Passagem Carlos Drummond, Alto da Colina - Porto Real - Brasil;1;600
+ELETRO_57;Estrada Clarice Lispector, Jardim Botânico - Porto Real - Brasil;15;700
+ELETRO_58;Avenida Duque de Caxias, Praia das Conchas - Porto Real - Brasil;1;650
+ELETRO_59;Rua Carlos Drummond, Cidade Alta - Porto Real - Brasil;1;750
+ELETRO_60;Alameda Anita Garibaldi, Portal do Vale - Porto Real - Brasil;15;750
+ELETRO_61;Rua Machado de Assis, São João - Porto Real - Brasil;15;650
+ELETRO_62;Travessa Aleijadinho, Jardim Oceânico - Porto Real - Brasil;15;750
+ELETRO_63;Rodovia Michael Faraday, Praia das Conchas - Porto Real - Brasil;15;700
+ELETRO_64;Praça Pixinguinha, São João - Porto Real - Brasil;15;600
+ELETRO_65;Vila Caetano Veloso, Portal do Vale - Porto Real - Brasil;15;700
+ELETRO_66;Travessa Jorge Amado, Cidade Alta - Porto Real - Brasil;15;750
+ELETRO_67;Rua Santos Dumont, Novo Horizonte - Porto Real - Brasil;1;650
+ELETRO_68;Praça Oscar Niemeyer, Distrito Industrial - Porto Real - Brasil;15;600
+ELETRO_69;Travessa Nikola Tesla, Centro Histórico - Porto Real - Brasil;1;600
+ELETRO_70;Passagem Alessandro Volta, Alphaville Real - Porto Real - Brasil;15;750
+ELETRO_71;Rodovia Georg Ohm, Boavista - Porto Real - Brasil;15;650
+ELETRO_72;Passagem Benjamin Franklin, Vila Nova - Porto Real - Brasil;1;700
+ELETRO_73;Alameda Ariano Suassuna, Ribeirão Preto - Porto Real - Brasil;15;600
+ELETRO_74;Estrada Elis Regina, Cidade Alta - Porto Real - Brasil;15;600
+ELETRO_75;Beco Milton Nascimento, Estação Central - Porto Real - Brasil;15;600
+ELETRO_76;Avenida Carlos Drummond, Bairro das Nações - Porto Real - Brasil;15;700
+ELETRO_77;Praça Princesa Isabel, Boavista - Porto Real - Brasil;15;750
+ELETRO_78;Praça Michael Faraday, Alphaville Real - Porto Real - Brasil;15;650
+ELETRO_79;Vila Anita Garibaldi, Aeroporto - Porto Real - Brasil;15;700
+ELETRO_80;Beco Oscar Niemeyer, Vale Verde - Porto Real - Brasil;1;700
+ELETRO_81;Beco Chico Buarque, Aeroporto - Porto Real - Brasil;15;650
+ELETRO_82;Rodovia Pixinguinha, Distrito Industrial - Porto Real - Brasil;15;700
+ELETRO_83;Estrada Central, Alphaville Real - Porto Real - Brasil;15;600
+ELETRO_84;Alameda Milton Nascimento, Santa Teresa - Porto Real - Brasil;1;750
+ELETRO_85;Rua Georg Ohm, Parque Tecnológico - Porto Real - Brasil;15;650
+ELETRO_86;Passagem da Inovação, Cidade Alta - Porto Real - Brasil;1;750
+ELETRO_87;Praça Castro Alves, Jardim Botânico - Porto Real - Brasil;15;650
+ELETRO_88;Praça Alessandro Volta, Jardim Botânico - Porto Real - Brasil;15;600
+ELETRO_89;Avenida das Orquídeas, Aeroporto - Porto Real - Brasil;15;650
+ELETRO_90;Rodovia Sete de Setembro, Bela Vista - Porto Real - Brasil;1;700
+ELETRO_91;Rodovia do Futuro, Bairro das Nações - Porto Real - Brasil;1;700
+ELETRO_92;Passagem da Paz, Santa Teresa - Porto Real - Brasil;15;750
+ELETRO_93;Estrada Cecília Meireles, Praia das Conchas - Porto Real - Brasil;15;750
+ELETRO_94;Beco Central, Ribeirão Preto - Porto Real - Brasil;1;750
+ELETRO_95;Passagem Cecília Meireles, Vale Verde - Porto Real - Brasil;15;700
+ELETRO_96;Estrada Thomas Edison, Santa Teresa - Porto Real - Brasil;15;750
+ELETRO_97;Avenida Thomas Edison, Porto Novo - Porto Real - Brasil;15;700
+ELETRO_98;Beco Castro Alves, Cidade Alta - Porto Real - Brasil;15;600
+ELETRO_99;Travessa dos Pinheiros, Jardim Oceânico - Porto Real - Brasil;1;750
+ELETRO_100;Passagem Oscar Niemeyer, Cidade Alta - Porto Real - Brasil;1;650
+ELETRO_101;Passagem Nikola Tesla, Alto da Colina - Porto Real - Brasil;15;750
+ELETRO_102;Passagem Erico Verissimo, Vale Verde - Porto Real - Brasil;15;650
+ELETRO_103;Estrada Princesa Isabel, Estação Central - Porto Real - Brasil;15;750
+ELETRO_104;Praça Treze de Maio, Boavista - Porto Real - Brasil;1;750
+ELETRO_105;Rodovia Zumbi dos Palmares, Santo Antônio - Porto Real - Brasil;1;650
+ELETRO_106;Vila Ariano Suassuna, Alto da Colina - Porto Real - Brasil;15;650
+ELETRO_107;Passagem da Inovação, Santo Antônio - Porto Real - Brasil;1;750
+ELETRO_108;Vila Santos Dumont, Vila Elétrica - Porto Real - Brasil;1;600
+ELETRO_109;Rua Central, Vila Elétrica - Porto Real - Brasil;15;650
+ELETRO_110;Avenida Candido Portinari, Aeroporto - Porto Real - Brasil;15;700
+ELETRO_111;Estrada das Nações, Vila Nova - Porto Real - Brasil;1;650
+ELETRO_112;Praça da Alvorada, Centro Histórico - Porto Real - Brasil;15;600
+ELETRO_113;Rodovia Castro Alves, Portal do Vale - Porto Real - Brasil;15;600
+ELETRO_114;Avenida dos Pinheiros, Jardim Oceânico - Porto Real - Brasil;1;650
+ELETRO_115;Rodovia do Futuro, Bairro das Nações - Porto Real - Brasil;15;750
+ELETRO_116;Praça Gilberto Gil, Vale Verde - Porto Real - Brasil;1;700
+ELETRO_117;Travessa Volta Redonda, Alto da Colina - Porto Real - Brasil;1;700
+ELETRO_118;Alameda Oscar Niemeyer, Alphaville Real - Porto Real - Brasil;15;700
+ELETRO_119;Travessa da Sustentabilidade, Porto Novo - Porto Real - Brasil;1;700
+ELETRO_120;Travessa Santos Dumont, Boavista - Porto Real - Brasil;1;650
+ELETRO_121;Rua Princesa Isabel, Parque Tecnológico - Porto Real - Brasil;15;600
+ELETRO_122;Avenida Oscar Niemeyer, Santo Antônio - Porto Real - Brasil;1;600
+ELETRO_123;Vila Tarsila do Amaral, Jardim Botânico - Porto Real - Brasil;15;650
+ELETRO_124;Avenida Carlos Drummond, Alphaville Real - Porto Real - Brasil;15;750
+ELETRO_125;Rua Milton Nascimento, Ribeirão Preto - Porto Real - Brasil;1;750
+ELETRO_126;Travessa Ariano Suassuna, Bela Vista - Porto Real - Brasil;15;650
+ELETRO_127;Rodovia Santos Dumont, Vila Elétrica - Porto Real - Brasil;15;650
+ELETRO_128;Estrada dos Pinheiros, Vila Nova - Porto Real - Brasil;1;750
+ELETRO_129;Beco Carlos Drummond, Distrito Industrial - Porto Real - Brasil;15;700
+ELETRO_130;Rodovia Oscar Niemeyer, Praia das Conchas - Porto Real - Brasil;1;700
+ELETRO_131;Avenida Jorge Amado, Bairro das Nações - Porto Real - Brasil;15;600
+ELETRO_132;Praça Ariano Suassuna, Santa Teresa - Porto Real - Brasil;15;600
+ELETRO_133;Travessa Michael Faraday, Cidade Alta - Porto Real - Brasil;15;700
+ELETRO_134;Rua da Alvorada, Jardim Botânico - Porto Real - Brasil;15;600
+ELETRO_135;Travessa dos Pinheiros, Novo Horizonte - Porto Real - Brasil;15;700
+ELETRO_136;Travessa do Futuro, Bela Vista - Porto Real - Brasil;1;700
+ELETRO_137;Estrada Treze de Maio, Alto da Colina - Porto Real - Brasil;15;700
+ELETRO_138;Rodovia Erico Verissimo, Novo Horizonte - Porto Real - Brasil;1;750
+ELETRO_139;Beco Oscar Niemeyer, Alto da Colina - Porto Real - Brasil;1;750
+ELETRO_140;Alameda Jorge Amado, Jardim Botânico - Porto Real - Brasil;15;650
+ELETRO_141;Rodovia Pixinguinha, Alphaville Real - Porto Real - Brasil;15;600
+ELETRO_142;Vila Candido Portinari, Bela Vista - Porto Real - Brasil;15;750
+ELETRO_143;Estrada Milton Nascimento, Bairro das Nações - Porto Real - Brasil;1;750
+ELETRO_144;Vila Georg Ohm, Alto da Colina - Porto Real - Brasil;1;700
+ELETRO_145;Rodovia Thomas Edison, São João - Porto Real - Brasil;15;700
+ELETRO_146;Alameda Elis Regina, Jardim Oceânico - Porto Real - Brasil;15;650
+ELETRO_147;Travessa Nikola Tesla, Distrito Industrial - Porto Real - Brasil;1;750
+ELETRO_148;Alameda Jorge Amado, Portal do Vale - Porto Real - Brasil;1;650
+ELETRO_149;Alameda Alessandro Volta, Bairro das Nações - Porto Real - Brasil;1;650
+ELETRO_150;Rodovia Oscar Niemeyer, Alto da Colina - Porto Real - Brasil;1;650
+ELETRO_151;Avenida Caetano Veloso, Alto da Colina - Porto Real - Brasil;15;600
+ELETRO_152;Passagem Tiradentes, Estação Central - Porto Real - Brasil;15;750
+ELETRO_153;Avenida Treze de Maio, Ribeirão Preto - Porto Real - Brasil;1;650
+ELETRO_154;Travessa Caetano Veloso, Jardim Oceânico - Porto Real - Brasil;1;600
+ELETRO_155;Estrada Caetano Veloso, Centro Histórico - Porto Real - Brasil;15;700
+ELETRO_156;Beco Benjamin Franklin, Vila Nova - Porto Real - Brasil;15;600
+ELETRO_157;Passagem Erico Verissimo, Centro Histórico - Porto Real - Brasil;15;650
+ELETRO_158;Travessa Central, Bairro das Nações - Porto Real - Brasil;1;600
+ELETRO_159;Rodovia Caetano Veloso, Vila Elétrica - Porto Real - Brasil;1;750
+ELETRO_160;Beco das Palmeiras, Alphaville Real - Porto Real - Brasil;1;700
+ELETRO_161;Praça da Inovação, Centro Histórico - Porto Real - Brasil;15;700
+ELETRO_162;Avenida Princesa Isabel, Bela Vista - Porto Real - Brasil;1;600
+ELETRO_163;Passagem das Orquídeas, Portal do Vale - Porto Real - Brasil;1;700
+ELETRO_164;Alameda Thomas Edison, Santa Teresa - Porto Real - Brasil;15;700
+ELETRO_165;Rodovia Michael Faraday, Boavista - Porto Real - Brasil;15;750
+ELETRO_166;Rodovia dos Girassóis, Boavista - Porto Real - Brasil;1;650
+ELETRO_167;Rua da Sustentabilidade, Centro Histórico - Porto Real - Brasil;15;600
+ELETRO_168;Vila Monteiro Lobato, Porto Novo - Porto Real - Brasil;1;700
+ELETRO_169;Rua Pixinguinha, Vale Verde - Porto Real - Brasil;1;750
+ELETRO_170;Beco Tom Jobim, Boavista - Porto Real - Brasil;15;700
+ELETRO_171;Travessa Santos Dumont, Estação Central - Porto Real - Brasil;15;700
+ELETRO_172;Travessa Castro Alves, Cidade Alta - Porto Real - Brasil;1;600
+ELETRO_173;Beco André Ampère, Portal do Vale - Porto Real - Brasil;1;750
+ELETRO_174;Alameda Milton Nascimento, Vila Elétrica - Porto Real - Brasil;15;600
+ELETRO_175;Beco dos Pinheiros, Vale Verde - Porto Real - Brasil;1;700
+ELETRO_176;Rua da Paz, Alto da Colina - Porto Real - Brasil;1;650
+ELETRO_177;Rua Treze de Maio, Praia das Conchas - Porto Real - Brasil;15;750
+ELETRO_178;Estrada Clarice Lispector, Praia das Conchas - Porto Real - Brasil;15;650
+ELETRO_179;Rua das Palmeiras, Alphaville Real - Porto Real - Brasil;1;600
+ELETRO_180;Rua Caetano Veloso, Alto da Colina - Porto Real - Brasil;15;700
+ELETRO_181;Beco Jorge Amado, Cidade Alta - Porto Real - Brasil;15;650
+ELETRO_182;Vila Benjamin Franklin, Bairro das Nações - Porto Real - Brasil;15;600
+ELETRO_183;Avenida Duque de Caxias, Praia das Conchas - Porto Real - Brasil;15;700
+ELETRO_184;Avenida Monteiro Lobato, Alphaville Real - Porto Real - Brasil;15;700
+ELETRO_185;Estrada Central, Santo Antônio - Porto Real - Brasil;15;700
+ELETRO_186;Passagem Milton Nascimento, Cidade Alta - Porto Real - Brasil;15;700
+ELETRO_187;Rodovia Santos Dumont, Aeroporto - Porto Real - Brasil;15;600
+ELETRO_188;Passagem Volta Redonda, Vila Nova - Porto Real - Brasil;15;650
+ELETRO_189;Rua Zumbi dos Palmares, Parque Tecnológico - Porto Real - Brasil;15;750
+ELETRO_190;Passagem Aleijadinho, Jardim Botânico - Porto Real - Brasil;15;750
+ELETRO_191;Rua Georg Ohm, Jardim Botânico - Porto Real - Brasil;1;600
+ELETRO_192;Passagem das Palmeiras, Mirante do Sol - Porto Real - Brasil;1;750
+ELETRO_193;Rodovia Machado de Assis, Boavista - Porto Real - Brasil;15;600
+ELETRO_194;Alameda Nikola Tesla, Mirante do Sol - Porto Real - Brasil;15;750
+ELETRO_195;Beco Clarice Lispector, Portal do Vale - Porto Real - Brasil;1;650
+ELETRO_196;Travessa André Ampère, Novo Horizonte - Porto Real - Brasil;15;750
+ELETRO_197;Rua Oscar Niemeyer, Boavista - Porto Real - Brasil;1;600
+ELETRO_198;Praça James Watt, Jardim Botânico - Porto Real - Brasil;15;700
+ELETRO_199;Passagem Monteiro Lobato, Jardim Oceânico - Porto Real - Brasil;1;600
+ELETRO_200;Passagem Michael Faraday, Bela Vista - Porto Real - Brasil;15;600
+ELETRO_201;Passagem da Alvorada, Aeroporto - Porto Real - Brasil;15;600
+ELETRO_202;Alameda Oscar Niemeyer, Porto Novo - Porto Real - Brasil;1;750
+ELETRO_203;Rodovia do Futuro, Boavista - Porto Real - Brasil;15;750
+ELETRO_204;Rodovia Anita Garibaldi, Santa Teresa - Porto Real - Brasil;1;650
+ELETRO_205;Vila Erico Verissimo, Distrito Industrial - Porto Real - Brasil;15;600
+ELETRO_206;Passagem Aleijadinho, Alphaville Real - Porto Real - Brasil;15;600
+ELETRO_207;Avenida Elis Regina, Praia das Conchas - Porto Real - Brasil;1;600
+ELETRO_208;Avenida Duque de Caxias, Santo Antônio - Porto Real - Brasil;1;700
+ELETRO_209;Rua Anita Garibaldi, Mirante do Sol - Porto Real - Brasil;15;750
+ELETRO_210;Alameda Duque de Caxias, Vila Elétrica - Porto Real - Brasil;1;700
+ELETRO_211;Alameda Erico Verissimo, Santa Teresa - Porto Real - Brasil;15;700
+ELETRO_212;Vila Santos Dumont, Alphaville Real - Porto Real - Brasil;1;700
+ELETRO_213;Passagem Ariano Suassuna, Santa Teresa - Porto Real - Brasil;15;650
+ELETRO_214;Vila André Ampère, Ribeirão Preto - Porto Real - Brasil;1;600
+ELETRO_215;Vila Ariano Suassuna, Estação Central - Porto Real - Brasil;1;700
+ELETRO_216;Vila André Ampère, Vale Verde - Porto Real - Brasil;1;650
+ELETRO_217;Rua Zumbi dos Palmares, Estação Central - Porto Real - Brasil;1;650
+ELETRO_218;Estrada Caetano Veloso, Alto da Colina - Porto Real - Brasil;1;750
+ELETRO_219;Passagem Nikola Tesla, Ribeirão Preto - Porto Real - Brasil;15;600
+ELETRO_220;Estrada da Alvorada, Bela Vista - Porto Real - Brasil;1;700
+ELETRO_221;Rodovia Quinze de Novembro, Vila Elétrica - Porto Real - Brasil;15;750
+ELETRO_222;Vila Santos Dumont, Bela Vista - Porto Real - Brasil;1;750
+ELETRO_223;Rodovia Candido Portinari, Ribeirão Preto - Porto Real - Brasil;15;700
+ELETRO_224;Alameda Thomas Edison, Vila Elétrica - Porto Real - Brasil;1;700
+ELETRO_225;Rodovia André Ampère, Bela Vista - Porto Real - Brasil;1;600
+ELETRO_226;Passagem das Palmeiras, Santo Antônio - Porto Real - Brasil;1;750
+ELETRO_227;Rodovia dos Pinheiros, Novo Horizonte - Porto Real - Brasil;15;750
+ELETRO_228;Beco Thomas Edison, Vila Elétrica - Porto Real - Brasil;1;700
+ELETRO_229;Passagem Tom Jobim, Alto da Colina - Porto Real - Brasil;15;600
+ELETRO_230;Beco Michael Faraday, Portal do Vale - Porto Real - Brasil;15;700
+ELETRO_231;Avenida Zumbi dos Palmares, Alto da Colina - Porto Real - Brasil;15;600
+ELETRO_232;Praça Princesa Isabel, Bela Vista - Porto Real - Brasil;15;600
+ELETRO_233;Passagem Princesa Isabel, Boavista - Porto Real - Brasil;15;650
+ELETRO_234;Vila Alessandro Volta, Novo Horizonte - Porto Real - Brasil;15;650
+ELETRO_235;Praça Caetano Veloso, Ribeirão Preto - Porto Real - Brasil;15;650
+ELETRO_236;Rodovia Treze de Maio, Jardim Botânico - Porto Real - Brasil;15;750
+ELETRO_237;Beco Thomas Edison, São João - Porto Real - Brasil;15;750
+ELETRO_238;Passagem Milton Nascimento, Jardim Botânico - Porto Real - Brasil;15;750
+ELETRO_239;Passagem Aleijadinho, Cidade Alta - Porto Real - Brasil;1;650
+ELETRO_240;Praça Ariano Suassuna, Alphaville Real - Porto Real - Brasil;15;750
+ELETRO_241;Avenida André Ampère, Vila Nova - Porto Real - Brasil;1;750
+ELETRO_242;Vila Sete de Setembro, Jardim Oceânico - Porto Real - Brasil;15;700
+ELETRO_243;Estrada Candido Portinari, São João - Porto Real - Brasil;1;700
+ELETRO_244;Passagem Elis Regina, Praia das Conchas - Porto Real - Brasil;15;700
+ELETRO_245;Estrada Anita Garibaldi, Santo Antônio - Porto Real - Brasil;15;600
+ELETRO_246;Rodovia Pixinguinha, Distrito Industrial - Porto Real - Brasil;15;700
+ELETRO_247;Rua da Inovação, Jardim Oceânico - Porto Real - Brasil;15;600
+ELETRO_248;Travessa Ariano Suassuna, Praia das Conchas - Porto Real - Brasil;1;650
+ELETRO_249;Beco Duque de Caxias, Mirante do Sol - Porto Real - Brasil;15;600
+ELETRO_250;Passagem Elis Regina, Jardim Botânico - Porto Real - Brasil;15;650
+ELETRO_251;Travessa Nikola Tesla, Aeroporto - Porto Real - Brasil;1;750
+ELETRO_252;Rodovia Central, Bela Vista - Porto Real - Brasil;1;650
+ELETRO_253;Beco Tom Jobim, Bairro das Nações - Porto Real - Brasil;15;650
+ELETRO_254;Passagem Elis Regina, Jardim Oceânico - Porto Real - Brasil;15;650
+ELETRO_255;Avenida Volta Redonda, Mirante do Sol - Porto Real - Brasil;15;650
+ELETRO_256;Alameda Elis Regina, Distrito Industrial - Porto Real - Brasil;1;650
+ELETRO_257;Alameda Gilberto Gil, Vila Elétrica - Porto Real - Brasil;15;750
+ELETRO_258;Estrada James Watt, Alphaville Real - Porto Real - Brasil;1;700
+ELETRO_259;Beco Benjamin Franklin, Jardim Oceânico - Porto Real - Brasil;15;700
+ELETRO_260;Avenida Anita Garibaldi, Estação Central - Porto Real - Brasil;15;700
+ELETRO_261;Travessa da Sustentabilidade, Ribeirão Preto - Porto Real - Brasil;15;700
+ELETRO_262;Avenida Michael Faraday, Parque Tecnológico - Porto Real - Brasil;15;700
+ELETRO_263;Alameda Central, Parque Tecnológico - Porto Real - Brasil;1;600
+ELETRO_264;Rua Thomas Edison, Novo Horizonte - Porto Real - Brasil;1;600
+ELETRO_265;Beco das Nações, Alto da Colina - Porto Real - Brasil;15;600
+ELETRO_266;Passagem Candido Portinari, Centro Histórico - Porto Real - Brasil;1;700
+ELETRO_267;Rodovia Milton Nascimento, São João - Porto Real - Brasil;15;750
+ELETRO_268;Rodovia do Progresso, Cidade Alta - Porto Real - Brasil;15;750
+ELETRO_269;Beco Elis Regina, Estação Central - Porto Real - Brasil;15;750
+ELETRO_270;Rodovia dos Pinheiros, Ribeirão Preto - Porto Real - Brasil;15;600
+ELETRO_271;Avenida Milton Nascimento, Distrito Industrial - Porto Real - Brasil;1;700
+ELETRO_272;Travessa Tom Jobim, Alphaville Real - Porto Real - Brasil;15;650
+ELETRO_273;Travessa Monteiro Lobato, Bela Vista - Porto Real - Brasil;1;600
+ELETRO_274;Rua da Inovação, Cidade Alta - Porto Real - Brasil;1;650
+ELETRO_275;Estrada Pixinguinha, Jardim Botânico - Porto Real - Brasil;1;700
+ELETRO_276;Praça Tiradentes, Bairro das Nações - Porto Real - Brasil;1;750
+ELETRO_277;Passagem Elis Regina, Santa Teresa - Porto Real - Brasil;15;700
+ELETRO_278;Vila Tarsila do Amaral, Parque Tecnológico - Porto Real - Brasil;15;600
+ELETRO_279;Travessa Clarice Lispector, Distrito Industrial - Porto Real - Brasil;15;600
+ELETRO_280;Rodovia Chico Buarque, Vale Verde - Porto Real - Brasil;1;600
+ELETRO_281;Vila Alessandro Volta, Jardim Oceânico - Porto Real - Brasil;1;750
+ELETRO_282;Estrada da Sustentabilidade, São João - Porto Real - Brasil;15;750
+ELETRO_283;Alameda Quinze de Novembro, Santa Teresa - Porto Real - Brasil;15;700
+ELETRO_284;Estrada Cecília Meireles, Parque Tecnológico - Porto Real - Brasil;15;750
+ELETRO_285;Passagem Erico Verissimo, Portal do Vale - Porto Real - Brasil;15;600
+ELETRO_286;Praça Castro Alves, Praia das Conchas - Porto Real - Brasil;15;600
+ELETRO_287;Alameda das Orquídeas, Vale Verde - Porto Real - Brasil;1;700
+ELETRO_288;Avenida Tarsila do Amaral, Alphaville Real - Porto Real - Brasil;1;700
+ELETRO_289;Travessa Clarice Lispector, Boavista - Porto Real - Brasil;15;750
+ELETRO_290;Avenida Gilberto Gil, Praia das Conchas - Porto Real - Brasil;15;650
+ELETRO_291;Praça Tom Jobim, Praia das Conchas - Porto Real - Brasil;1;750
+ELETRO_292;Avenida Carlos Drummond, Centro Histórico - Porto Real - Brasil;1;650
+ELETRO_293;Travessa das Orquídeas, Porto Novo - Porto Real - Brasil;1;700
+ELETRO_294;Beco Zumbi dos Palmares, Porto Novo - Porto Real - Brasil;15;650
+ELETRO_295;Alameda Elis Regina, Santo Antônio - Porto Real - Brasil;1;700
+ELETRO_296;Passagem Caetano Veloso, Santa Teresa - Porto Real - Brasil;15;750
+ELETRO_297;Travessa Pixinguinha, Mirante do Sol - Porto Real - Brasil;15;650
+ELETRO_298;Rua James Watt, Estação Central - Porto Real - Brasil;15;600
+ELETRO_299;Estrada Tarsila do Amaral, Praia das Conchas - Porto Real - Brasil;15;750
+ELETRO_300;Rua Caetano Veloso, Centro Histórico - Porto Real - Brasil;15;750
+ELETRO_301;Travessa Candido Portinari, Cidade Alta - Porto Real - Brasil;1;700
+ELETRO_302;Beco Tom Jobim, Centro Histórico - Porto Real - Brasil;15;600
+ELETRO_303;Vila Volta Redonda, Centro Histórico - Porto Real - Brasil;1;650
+ELETRO_304;Beco Ariano Suassuna, Alto da Colina - Porto Real - Brasil;15;650
+ELETRO_305;Estrada Georg Ohm, Santa Teresa - Porto Real - Brasil;1;700
+ELETRO_306;Avenida do Futuro, Vila Elétrica - Porto Real - Brasil;15;700
+ELETRO_307;Alameda dos Girassóis, Portal do Vale - Porto Real - Brasil;1;750
+ELETRO_308;Praça Santos Dumont, Bela Vista - Porto Real - Brasil;1;750
+ELETRO_309;Passagem Benjamin Franklin, Jardim Botânico - Porto Real - Brasil;15;750
+ELETRO_310;Travessa Caetano Veloso, Vila Nova - Porto Real - Brasil;15;750
+ELETRO_311;Rodovia Milton Nascimento, Distrito Industrial - Porto Real - Brasil;1;750
+ELETRO_312;Rua Elis Regina, Novo Horizonte - Porto Real - Brasil;15;750
+ELETRO_313;Alameda das Orquídeas, Mirante do Sol - Porto Real - Brasil;1;700
+ELETRO_314;Passagem Aleijadinho, Alphaville Real - Porto Real - Brasil;15;750
+ELETRO_315;Estrada Alessandro Volta, Cidade Alta - Porto Real - Brasil;15;650
+ELETRO_316;Vila James Watt, Vila Nova - Porto Real - Brasil;1;600
+ELETRO_317;Rodovia Cecília Meireles, Mirante do Sol - Porto Real - Brasil;1;650
+ELETRO_318;Vila da Alvorada, Cidade Alta - Porto Real - Brasil;15;700
+ELETRO_319;Passagem Elis Regina, Porto Novo - Porto Real - Brasil;1;600
+ELETRO_320;Passagem Ariano Suassuna, Porto Novo - Porto Real - Brasil;1;650
+ELETRO_321;Alameda Jorge Amado, Novo Horizonte - Porto Real - Brasil;1;700
+ELETRO_322;Praça Zumbi dos Palmares, Aeroporto - Porto Real - Brasil;1;650
+ELETRO_323;Praça Candido Portinari, Boavista - Porto Real - Brasil;15;650
+ELETRO_324;Alameda Georg Ohm, Bela Vista - Porto Real - Brasil;1;750
+ELETRO_325;Alameda Elis Regina, Praia das Conchas - Porto Real - Brasil;15;600
+ELETRO_326;Rodovia Tiradentes, Vila Nova - Porto Real - Brasil;15;650
+ELETRO_327;Rodovia Tiradentes, Portal do Vale - Porto Real - Brasil;1;700
+ELETRO_328;Vila Elis Regina, Praia das Conchas - Porto Real - Brasil;1;700
+ELETRO_329;Travessa Aleijadinho, Parque Tecnológico - Porto Real - Brasil;15;700
+ELETRO_330;Beco James Watt, Distrito Industrial - Porto Real - Brasil;15;650
+ELETRO_331;Alameda Ariano Suassuna, Vila Nova - Porto Real - Brasil;15;650
+ELETRO_332;Alameda Sete de Setembro, Jardim Botânico - Porto Real - Brasil;1;650
+ELETRO_333;Alameda Jorge Amado, Bela Vista - Porto Real - Brasil;1;700
+ELETRO_334;Estrada dos Pinheiros, Estação Central - Porto Real - Brasil;1;650
+ELETRO_335;Estrada da Alvorada, Distrito Industrial - Porto Real - Brasil;15;600
+ELETRO_336;Vila dos Pinheiros, Portal do Vale - Porto Real - Brasil;15;650
+ELETRO_337;Passagem Georg Ohm, Centro Histórico - Porto Real - Brasil;1;750
+ELETRO_338;Passagem do Progresso, Centro Histórico - Porto Real - Brasil;15;700
+ELETRO_339;Avenida das Palmeiras, Distrito Industrial - Porto Real - Brasil;15;650
+ELETRO_340;Rodovia Monteiro Lobato, Centro Histórico - Porto Real - Brasil;1;700
+ELETRO_341;Rodovia da Inovação, Vale Verde - Porto Real - Brasil;15;700
+ELETRO_342;Beco do Futuro, Estação Central - Porto Real - Brasil;15;700
+ELETRO_343;Avenida Milton Nascimento, Mirante do Sol - Porto Real - Brasil;15;750
+ELETRO_344;Alameda dos Girassóis, Vila Elétrica - Porto Real - Brasil;15;700
+ELETRO_345;Rodovia Benjamin Franklin, Parque Tecnológico - Porto Real - Brasil;1;600
+ELETRO_346;Rua Clarice Lispector, Cidade Alta - Porto Real - Brasil;15;600
+ELETRO_347;Alameda Alessandro Volta, São João - Porto Real - Brasil;1;600
+ELETRO_348;Rua da Sustentabilidade, Jardim Oceânico - Porto Real - Brasil;15;600
+ELETRO_349;Beco Alessandro Volta, Jardim Oceânico - Porto Real - Brasil;15;600
+ELETRO_350;Travessa das Nações, Vila Elétrica - Porto Real - Brasil;15;600
+ELETRO_351;Avenida Quinze de Novembro, Bela Vista - Porto Real - Brasil;1;700
+ELETRO_352;Travessa do Futuro, Santo Antônio - Porto Real - Brasil;15;600
+ELETRO_353;Avenida Santos Dumont, Bairro das Nações - Porto Real - Brasil;1;750
+ELETRO_354;Beco André Ampère, Boavista - Porto Real - Brasil;1;700
+ELETRO_355;Praça Princesa Isabel, Centro Histórico - Porto Real - Brasil;15;700
+ELETRO_356;Rodovia Treze de Maio, Alphaville Real - Porto Real - Brasil;15;750
+ELETRO_357;Travessa Sete de Setembro, Alto da Colina - Porto Real - Brasil;15;700
+ELETRO_358;Praça Tiradentes, Estação Central - Porto Real - Brasil;1;650
+ELETRO_359;Passagem dos Pinheiros, Distrito Industrial - Porto Real - Brasil;1;650
+ELETRO_360;Beco das Orquídeas, Parque Tecnológico - Porto Real - Brasil;15;600
+ELETRO_361;Avenida do Futuro, Mirante do Sol - Porto Real - Brasil;1;600
+ELETRO_362;Rua Carlos Drummond, Novo Horizonte - Porto Real - Brasil;15;700
+ELETRO_363;Beco Erico Verissimo, Portal do Vale - Porto Real - Brasil;15;700
+ELETRO_364;Beco Elis Regina, Vila Nova - Porto Real - Brasil;15;650
+ELETRO_365;Alameda Michael Faraday, São João - Porto Real - Brasil;1;650
+ELETRO_366;Estrada Georg Ohm, Praia das Conchas - Porto Real - Brasil;1;650
+ELETRO_367;Vila Volta Redonda, Mirante do Sol - Porto Real - Brasil;15;750
+ELETRO_368;Vila Zumbi dos Palmares, Centro Histórico - Porto Real - Brasil;1;650
+ELETRO_369;Rua Duque de Caxias, Alto da Colina - Porto Real - Brasil;15;650
+ELETRO_370;Rodovia Monteiro Lobato, Porto Novo - Porto Real - Brasil;15;600
+ELETRO_371;Passagem Zumbi dos Palmares, Distrito Industrial - Porto Real - Brasil;1;700
+ELETRO_372;Passagem dos Pinheiros, Bairro das Nações - Porto Real - Brasil;15;700
+ELETRO_373;Passagem Tom Jobim, Santo Antônio - Porto Real - Brasil;15;600
+ELETRO_374;Praça Gilberto Gil, Aeroporto - Porto Real - Brasil;15;650
+ELETRO_375;Avenida Monteiro Lobato, Distrito Industrial - Porto Real - Brasil;15;600
+ELETRO_376;Alameda do Progresso, São João - Porto Real - Brasil;1;650
+ELETRO_377;Travessa Machado de Assis, Santa Teresa - Porto Real - Brasil;15;700
+ELETRO_378;Alameda Princesa Isabel, Estação Central - Porto Real - Brasil;15;650
+ELETRO_379;Beco Michael Faraday, Praia das Conchas - Porto Real - Brasil;1;750
+ELETRO_380;Beco Oscar Niemeyer, Cidade Alta - Porto Real - Brasil;1;600
+ELETRO_381;Passagem Nikola Tesla, Bairro das Nações - Porto Real - Brasil;1;650
+ELETRO_382;Alameda das Palmeiras, Boavista - Porto Real - Brasil;15;600
+ELETRO_383;Vila Oscar Niemeyer, Cidade Alta - Porto Real - Brasil;1;600
+ELETRO_384;Vila Santos Dumont, Jardim Oceânico - Porto Real - Brasil;15;700
+ELETRO_385;Rua da Alvorada, Estação Central - Porto Real - Brasil;15;700
+ELETRO_386;Estrada Carlos Drummond, Praia das Conchas - Porto Real - Brasil;1;750
+ELETRO_387;Beco Ariano Suassuna, Parque Tecnológico - Porto Real - Brasil;1;600
+ELETRO_388;Rodovia da Inovação, Boavista - Porto Real - Brasil;15;600
+ELETRO_389;Praça Candido Portinari, Portal do Vale - Porto Real - Brasil;15;750
+ELETRO_390;Rua Erico Verissimo, Centro Histórico - Porto Real - Brasil;15;750
+ELETRO_391;Vila da Paz, Novo Horizonte - Porto Real - Brasil;1;600
+ELETRO_392;Beco dos Pinheiros, Bairro das Nações - Porto Real - Brasil;1;600
+ELETRO_393;Estrada Oscar Niemeyer, Aeroporto - Porto Real - Brasil;15;600
+ELETRO_394;Rua James Watt, Bairro das Nações - Porto Real - Brasil;15;600
+ELETRO_395;Travessa Tom Jobim, Cidade Alta - Porto Real - Brasil;15;600
+ELETRO_396;Estrada Gilberto Gil, Praia das Conchas - Porto Real - Brasil;15;600
+ELETRO_397;Estrada Erico Verissimo, Portal do Vale - Porto Real - Brasil;1;700
+ELETRO_398;Beco Thomas Edison, Portal do Vale - Porto Real - Brasil;1;650
+ELETRO_399;Avenida Castro Alves, Portal do Vale - Porto Real - Brasil;15;750
+ELETRO_400;Beco Sete de Setembro, Vila Nova - Porto Real - Brasil;15;600
+ELETRO_401;Travessa Alessandro Volta, Alto da Colina - Porto Real - Brasil;1;750
+ELETRO_402;Rodovia Caetano Veloso, Alto da Colina - Porto Real - Brasil;15;650
+ELETRO_403;Rodovia Elis Regina, Portal do Vale - Porto Real - Brasil;15;750
+ELETRO_404;Vila Michael Faraday, Distrito Industrial - Porto Real - Brasil;15;750
+ELETRO_405;Praça Santos Dumont, Bela Vista - Porto Real - Brasil;15;700
+ELETRO_406;Beco Alessandro Volta, Jardim Oceânico - Porto Real - Brasil;15;650
+ELETRO_407;Estrada Machado de Assis, Jardim Oceânico - Porto Real - Brasil;15;600
+ELETRO_408;Beco Princesa Isabel, Ribeirão Preto - Porto Real - Brasil;15;650
+ELETRO_409;Passagem da Inovação, Jardim Botânico - Porto Real - Brasil;15;750
+ELETRO_410;Travessa James Watt, Bairro das Nações - Porto Real - Brasil;1;650
+ELETRO_411;Passagem Georg Ohm, Alphaville Real - Porto Real - Brasil;15;750
+ELETRO_412;Avenida Quinze de Novembro, Jardim Botânico - Porto Real - Brasil;1;600
+ELETRO_413;Praça da Inovação, Portal do Vale - Porto Real - Brasil;15;600
+ELETRO_414;Beco Cecília Meireles, Portal do Vale - Porto Real - Brasil;15;750
+ELETRO_415;Passagem Duque de Caxias, Mirante do Sol - Porto Real - Brasil;1;600
+ELETRO_416;Praça Chico Buarque, Jardim Oceânico - Porto Real - Brasil;15;600
+ELETRO_417;Passagem da Alvorada, Bela Vista - Porto Real - Brasil;1;750
+ELETRO_418;Passagem Treze de Maio, Praia das Conchas - Porto Real - Brasil;15;600
+ELETRO_419;Vila Tiradentes, Aeroporto - Porto Real - Brasil;15;600
+ELETRO_420;Avenida Castro Alves, Jardim Botânico - Porto Real - Brasil;1;650
+ELETRO_421;Passagem Tom Jobim, Parque Tecnológico - Porto Real - Brasil;1;700
+ELETRO_422;Rua Central, Cidade Alta - Porto Real - Brasil;1;650
+ELETRO_423;Rodovia Treze de Maio, Praia das Conchas - Porto Real - Brasil;1;750
+ELETRO_424;Passagem Milton Nascimento, Distrito Industrial - Porto Real - Brasil;1;700
+ELETRO_425;Vila Georg Ohm, Bairro das Nações - Porto Real - Brasil;15;750
+ELETRO_426;Alameda Elis Regina, Estação Central - Porto Real - Brasil;15;700
+ELETRO_427;Rua da Sustentabilidade, Praia das Conchas - Porto Real - Brasil;15;650
+ELETRO_428;Praça Aleijadinho, Jardim Oceânico - Porto Real - Brasil;1;600
+ELETRO_429;Travessa da Alvorada, Mirante do Sol - Porto Real - Brasil;1;650
+ELETRO_430;Passagem Santos Dumont, Santa Teresa - Porto Real - Brasil;1;600
+ELETRO_431;Estrada Nikola Tesla, Porto Novo - Porto Real - Brasil;15;650
+ELETRO_432;Beco do Futuro, Santa Teresa - Porto Real - Brasil;1;600
+ELETRO_433;Travessa da Sustentabilidade, Praia das Conchas - Porto Real - Brasil;15;600
+ELETRO_434;Avenida Jorge Amado, Estação Central - Porto Real - Brasil;15;700
+ELETRO_435;Estrada Erico Verissimo, Distrito Industrial - Porto Real - Brasil;1;700
+ELETRO_436;Beco Oscar Niemeyer, Vila Nova - Porto Real - Brasil;15;650
+ELETRO_437;Beco Quinze de Novembro, Cidade Alta - Porto Real - Brasil;1;750
+ELETRO_438;Estrada Gilberto Gil, Ribeirão Preto - Porto Real - Brasil;1;700
+ELETRO_439;Passagem Tiradentes, São João - Porto Real - Brasil;1;750
+ELETRO_440;Alameda Machado de Assis, Alphaville Real - Porto Real - Brasil;15;700
+ELETRO_441;Rua do Progresso, Bairro das Nações - Porto Real - Brasil;1;650
+ELETRO_442;Avenida Thomas Edison, Jardim Oceânico - Porto Real - Brasil;1;750
+ELETRO_443;Praça André Ampère, Centro Histórico - Porto Real - Brasil;1;650
+ELETRO_444;Vila Gilberto Gil, Boavista - Porto Real - Brasil;15;600
+ELETRO_445;Avenida Volta Redonda, Portal do Vale - Porto Real - Brasil;15;600
+ELETRO_446;Avenida Anita Garibaldi, Vila Elétrica - Porto Real - Brasil;15;650
+ELETRO_447;Rua Oscar Niemeyer, Alto da Colina - Porto Real - Brasil;15;650
+ELETRO_448;Vila Zumbi dos Palmares, Jardim Oceânico - Porto Real - Brasil;1;750
+ELETRO_449;Alameda Milton Nascimento, Aeroporto - Porto Real - Brasil;15;600
+ELETRO_450;Beco Monteiro Lobato, Vila Elétrica - Porto Real - Brasil;15;700
+ELETRO_451;Estrada das Palmeiras, Boavista - Porto Real - Brasil;1;600
+ELETRO_452;Vila Anita Garibaldi, Ribeirão Preto - Porto Real - Brasil;15;650
+ELETRO_453;Rodovia Pixinguinha, Santo Antônio - Porto Real - Brasil;1;650
+ELETRO_454;Avenida Princesa Isabel, Jardim Botânico - Porto Real - Brasil;15;600
+ELETRO_455;Praça Monteiro Lobato, Novo Horizonte - Porto Real - Brasil;1;600
+ELETRO_456;Passagem das Palmeiras, Jardim Botânico - Porto Real - Brasil;1;650
+ELETRO_457;Passagem Zumbi dos Palmares, Porto Novo - Porto Real - Brasil;1;700
+ELETRO_458;Rua Nikola Tesla, Mirante do Sol - Porto Real - Brasil;15;600
+ELETRO_459;Passagem Tiradentes, Jardim Botânico - Porto Real - Brasil;1;700
+ELETRO_460;Praça Georg Ohm, Bela Vista - Porto Real - Brasil;1;650
+ELETRO_461;Rodovia Elis Regina, Jardim Oceânico - Porto Real - Brasil;1;600
+ELETRO_462;Vila Candido Portinari, Bairro das Nações - Porto Real - Brasil;1;650
+ELETRO_463;Passagem Sete de Setembro, Parque Tecnológico - Porto Real - Brasil;1;750
+ELETRO_464;Avenida Alessandro Volta, São João - Porto Real - Brasil;15;650
+ELETRO_465;Praça Nikola Tesla, Porto Novo - Porto Real - Brasil;1;750
+ELETRO_466;Alameda Central, Mirante do Sol - Porto Real - Brasil;15;600
+ELETRO_467;Passagem das Orquídeas, Vale Verde - Porto Real - Brasil;1;750
+ELETRO_468;Alameda Milton Nascimento, Praia das Conchas - Porto Real - Brasil;1;650
+ELETRO_469;Travessa Georg Ohm, Jardim Oceânico - Porto Real - Brasil;1;750
+ELETRO_470;Rodovia Chico Buarque, Praia das Conchas - Porto Real - Brasil;15;750
+ELETRO_471;Passagem Nikola Tesla, Centro Histórico - Porto Real - Brasil;15;700
+ELETRO_472;Alameda Castro Alves, Alto da Colina - Porto Real - Brasil;1;750
+ELETRO_473;Vila Thomas Edison, Santo Antônio - Porto Real - Brasil;1;650
+ELETRO_474;Travessa Nikola Tesla, Alto da Colina - Porto Real - Brasil;15;650
+ELETRO_475;Vila das Orquídeas, Bela Vista - Porto Real - Brasil;1;650
+ELETRO_476;Travessa Ariano Suassuna, Portal do Vale - Porto Real - Brasil;1;650
+ELETRO_477;Travessa Castro Alves, Aeroporto - Porto Real - Brasil;1;600
+ELETRO_478;Beco Pixinguinha, Centro Histórico - Porto Real - Brasil;1;750
+ELETRO_479;Rodovia Candido Portinari, Boavista - Porto Real - Brasil;15;600
+ELETRO_480;Avenida Elis Regina, Ribeirão Preto - Porto Real - Brasil;15;600
+ELETRO_481;Rua das Nações, Porto Novo - Porto Real - Brasil;15;700
+ELETRO_482;Alameda Elis Regina, Santa Teresa - Porto Real - Brasil;1;600
+ELETRO_483;Avenida James Watt, Ribeirão Preto - Porto Real - Brasil;15;650
+ELETRO_484;Rua da Sustentabilidade, Distrito Industrial - Porto Real - Brasil;1;650
+ELETRO_485;Rua Anita Garibaldi, Vale Verde - Porto Real - Brasil;1;650
+ELETRO_486;Rodovia Tom Jobim, Portal do Vale - Porto Real - Brasil;1;650
+ELETRO_487;Travessa Pixinguinha, Centro Histórico - Porto Real - Brasil;1;600
+ELETRO_488;Rua Michael Faraday, Vila Nova - Porto Real - Brasil;1;700
+ELETRO_489;Estrada James Watt, Praia das Conchas - Porto Real - Brasil;15;700
+ELETRO_490;Rodovia Duque de Caxias, Santo Antônio - Porto Real - Brasil;15;750
+ELETRO_491;Avenida Thomas Edison, Cidade Alta - Porto Real - Brasil;1;600
+ELETRO_492;Passagem da Alvorada, Vila Elétrica - Porto Real - Brasil;1;600
+ELETRO_493;Passagem Alessandro Volta, Aeroporto - Porto Real - Brasil;1;700
+ELETRO_494;Beco do Futuro, Portal do Vale - Porto Real - Brasil;15;600
+ELETRO_495;Praça Benjamin Franklin, Vila Elétrica - Porto Real - Brasil;15;700
+ELETRO_496;Avenida Machado de Assis, Parque Tecnológico - Porto Real - Brasil;1;650
+ELETRO_497;Alameda Elis Regina, Praia das Conchas - Porto Real - Brasil;1;750
+ELETRO_498;Alameda Machado de Assis, Cidade Alta - Porto Real - Brasil;15;650
+ELETRO_499;Vila Oscar Niemeyer, Praia das Conchas - Porto Real - Brasil;1;700
+ELETRO_500;Rodovia Candido Portinari, São João - Porto Real - Brasil;15;650

@@ -1,0 +1,282 @@
+[
+    {
+        "IDNoticia": "NOT_1",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-03-19 03:32:20",
+        "Manchete": "Porto Real bate recorde nacional e atinge 70% da frota pública movida a energia limpa.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_2",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-01-20 17:19:25",
+        "Manchete": "Tarifa de energia em Porto Real deve sofrer reajuste severo de 12% no próximo mês.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_3",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-01-16 21:28:02",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Juliana S."
+    },
+    {
+        "IDNoticia": "NOT_4",
+        "Fonte": "Globo Energia",
+        "DataPublicacao": "2026-04-07 22:33:01",
+        "Manchete": "Apagão parcial atinge o Distrito Industrial de Porto Real e paralisa frota de ônibus elétricos.",
+        "Autor": "Juliana S."
+    },
+    {
+        "IDNoticia": "NOT_5",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-02-22 02:23:35",
+        "Manchete": "Eletroposto no Jardim Oceânico apresenta falha crônica na tensão e queima bateria de veículo público.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_6",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-01-24 12:12:33",
+        "Manchete": "Investidores internacionais injetam R$ 45 milhões na rede de eletropostos da Lumina.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_7",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-05-31 01:59:24",
+        "Manchete": "Moradores protestam na Estação Central contra o aumento abusivo nas taxas de recarga da Lumina.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_8",
+        "Fonte": "Yahoo Finance",
+        "DataPublicacao": "2026-03-28 10:27:47",
+        "Manchete": "Investidores internacionais injetam R$ 45 milhões na rede de eletropostos da Lumina.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_9",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-02-13 15:29:16",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Juliana S."
+    },
+    {
+        "IDNoticia": "NOT_10",
+        "Fonte": "Yahoo Finance",
+        "DataPublicacao": "2026-01-24 15:22:41",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_11",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-03-16 23:41:05",
+        "Manchete": "Investidores internacionais injetam R$ 45 milhões na rede de eletropostos da Lumina.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_12",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-04-14 04:20:25",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_13",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-03-19 10:07:20",
+        "Manchete": "Moradores protestam na Estação Central contra o aumento abusivo nas taxas de recarga da Lumina.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_14",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-05-20 10:23:11",
+        "Manchete": "Nova tecnologia da Lumina reduz tempo de carregamento de ônibus elétricos para apenas 20 minutos.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_15",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-03-24 11:24:50",
+        "Manchete": "Lumina Energy anuncia expansão de 50 novos eletropostos rápidos em Porto Real.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_16",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-05-23 15:38:40",
+        "Manchete": "Apagão parcial atinge o Distrito Industrial de Porto Real e paralisa frota de ônibus elétricos.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_17",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-04-12 12:15:51",
+        "Manchete": "Tarifa de energia em Porto Real deve sofrer reajuste severo de 12% no próximo mês.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_18",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-04-18 14:34:53",
+        "Manchete": "Nova tecnologia da Lumina reduz tempo de carregamento de ônibus elétricos para apenas 20 minutos.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_19",
+        "Fonte": "Yahoo Finance",
+        "DataPublicacao": "2026-04-01 01:23:06",
+        "Manchete": "Porto Real bate recorde nacional e atinge 70% da frota pública movida a energia limpa.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_20",
+        "Fonte": "Globo Energia",
+        "DataPublicacao": "2026-04-18 11:46:18",
+        "Manchete": "Lumina Energy anuncia expansão de 50 novos eletropostos rápidos em Porto Real.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_21",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-02-13 05:17:19",
+        "Manchete": "Lumina Energy anuncia expansão de 50 novos eletropostos rápidos em Porto Real.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_22",
+        "Fonte": "Yahoo Finance",
+        "DataPublicacao": "2026-01-08 11:11:45",
+        "Manchete": "Investidores internacionais injetam R$ 45 milhões na rede de eletropostos da Lumina.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_23",
+        "Fonte": "Globo Energia",
+        "DataPublicacao": "2026-04-21 07:11:23",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_24",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-01-08 12:21:55",
+        "Manchete": "Tarifa de energia em Porto Real deve sofrer reajuste severo de 12% no próximo mês.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_25",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-05-23 02:45:51",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_26",
+        "Fonte": "Globo Energia",
+        "DataPublicacao": "2026-01-20 02:11:14",
+        "Manchete": "Onda de calor extremo sobrecarrega subestação e desliga eletropostos na Vila Elétrica por segurança.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_27",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-01-04 13:02:20",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Juliana S."
+    },
+    {
+        "IDNoticia": "NOT_28",
+        "Fonte": "Yahoo Finance",
+        "DataPublicacao": "2026-03-14 00:41:35",
+        "Manchete": "Falha no sistema de faturamento da Lumina Energy gera cobranças duplicadas e aciona o Procon.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_29",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-01-14 03:19:07",
+        "Manchete": "Nova tecnologia da Lumina reduz tempo de carregamento de ônibus elétricos para apenas 20 minutos.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_30",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-04-24 15:31:30",
+        "Manchete": "Parceria entre Prefeitura e Lumina Energy zera tarifa de recarga para ônibus elétricos escolares.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_31",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-05-07 19:39:15",
+        "Manchete": "Moradores protestam na Estação Central contra o aumento abusivo nas taxas de recarga da Lumina.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_32",
+        "Fonte": "Yahoo Finance",
+        "DataPublicacao": "2026-01-06 13:39:34",
+        "Manchete": "Apagão parcial atinge o Distrito Industrial de Porto Real e paralisa frota de ônibus elétricos.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_33",
+        "Fonte": "Yahoo Finance",
+        "DataPublicacao": "2026-05-17 03:01:27",
+        "Manchete": "Nova tecnologia da Lumina reduz tempo de carregamento de ônibus elétricos para apenas 20 minutos.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_34",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-05-26 00:07:52",
+        "Manchete": "Moradores protestam na Estação Central contra o aumento abusivo nas taxas de recarga da Lumina.",
+        "Autor": "Juliana S."
+    },
+    {
+        "IDNoticia": "NOT_35",
+        "Fonte": "Globo Energia",
+        "DataPublicacao": "2026-05-20 01:14:38",
+        "Manchete": "Lumina Energy recebe prêmio ambiental de inovação tecnológica em mobilidade urbana.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_36",
+        "Fonte": "Globo Energia",
+        "DataPublicacao": "2026-03-30 09:47:34",
+        "Manchete": "Porto Real bate recorde nacional e atinge 70% da frota pública movida a energia limpa.",
+        "Autor": "Redação"
+    },
+    {
+        "IDNoticia": "NOT_37",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-05-09 20:31:51",
+        "Manchete": "Falha no sistema de faturamento da Lumina Energy gera cobranças duplicadas e aciona o Procon.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_38",
+        "Fonte": "Porto Real News",
+        "DataPublicacao": "2026-05-17 04:38:55",
+        "Manchete": "Onda de calor extremo sobrecarrega subestação e desliga eletropostos na Vila Elétrica por segurança.",
+        "Autor": "Pedro A."
+    },
+    {
+        "IDNoticia": "NOT_39",
+        "Fonte": "Globo Energia",
+        "DataPublicacao": "2026-04-14 04:19:39",
+        "Manchete": "Lumina Energy recebe prêmio ambiental de inovação tecnológica em mobilidade urbana.",
+        "Autor": "Carlos M."
+    },
+    {
+        "IDNoticia": "NOT_40",
+        "Fonte": "Diário Sustentável",
+        "DataPublicacao": "2026-05-23 00:20:13",
+        "Manchete": "Lumina Energy recebe prêmio ambiental de inovação tecnológica em mobilidade urbana.",
+        "Autor": "Juliana S."
+    }
+]

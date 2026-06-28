@@ -1,0 +1,422 @@
+[
+    {
+        "IDPost": "POST_1",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-03-02 15:23:53",
+        "Usuario": "@user_72717",
+        "TextoPost": "A tarifa de recarga da @LuminaEnergy está ficando mais cara do que rodar a diesel... Desse jeito quebram o trabalhador!"
+    },
+    {
+        "IDPost": "POST_2",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-02-03 17:34:44",
+        "Usuario": "@user_65218",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_3",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-27 23:27:49",
+        "Usuario": "@user_41599",
+        "TextoPost": "Minha recarga foi interrompida três vezes sozinhas na Vila Elétrica. O app travou e continuou descontando meu saldo! 🤬"
+    },
+    {
+        "IDPost": "POST_4",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-05-24 11:59:38",
+        "Usuario": "@user_53652",
+        "TextoPost": "Alguém mais notou que o aplicativo de faturamento da Lumina está cobrando valores errados nas últimas recargas?"
+    },
+    {
+        "IDPost": "POST_5",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-05-02 02:06:35",
+        "Usuario": "@user_18178",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_6",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-03-06 10:34:34",
+        "Usuario": "@user_12981",
+        "TextoPost": "Muito bom ver Porto Real virando referência em sustentabilidade. Os novos carregadores rápidos salvam o dia! 🙌"
+    },
+    {
+        "IDPost": "POST_7",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-04-16 10:15:40",
+        "Usuario": "@user_5534",
+        "TextoPost": "Aplicativo da Lumina atualizou e agora dá para reservar a vaga de recarga antes de chegar. Sensacional!"
+    },
+    {
+        "IDPost": "POST_8",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-07 04:50:58",
+        "Usuario": "@user_69300",
+        "TextoPost": "Finalmente eletropostos de verdade no Bairro das Nações! Tudo limpo, rápido e funcionando perfeitamente."
+    },
+    {
+        "IDPost": "POST_9",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-19 04:46:43",
+        "Usuario": "@user_97319",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_10",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-05-28 22:41:58",
+        "Usuario": "@user_13093",
+        "TextoPost": "Motorista de aplicativo aqui. Com esses novos postos de 750V no Portal do Vale, meu lucro aumentou muito. Valeu!"
+    },
+    {
+        "IDPost": "POST_11",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-04-25 12:12:30",
+        "Usuario": "@user_93476",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_12",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-03-01 18:10:37",
+        "Usuario": "@user_34606",
+        "TextoPost": "Minha recarga foi interrompida três vezes sozinhas na Vila Elétrica. O app travou e continuou descontando meu saldo! 🤬"
+    },
+    {
+        "IDPost": "POST_13",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-03-21 04:40:01",
+        "Usuario": "@user_7916",
+        "TextoPost": "Minha recarga foi interrompida três vezes sozinhas na Vila Elétrica. O app travou e continuou descontando meu saldo! 🤬"
+    },
+    {
+        "IDPost": "POST_14",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-02-02 11:56:45",
+        "Usuario": "@user_35024",
+        "TextoPost": "Muito bom ver Porto Real virando referência em sustentabilidade. Os novos carregadores rápidos salvam o dia! 🙌"
+    },
+    {
+        "IDPost": "POST_15",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-05-17 03:44:11",
+        "Usuario": "@user_51638",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_16",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-04-16 13:03:35",
+        "Usuario": "@user_96612",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_17",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-03-20 12:39:44",
+        "Usuario": "@user_69593",
+        "TextoPost": "Fiquei preso no eletroposto da Estação Central porque a tensão caiu para zero do nada. Que decepção total."
+    },
+    {
+        "IDPost": "POST_18",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-03-01 18:42:57",
+        "Usuario": "@user_28065",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_19",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-02-07 11:03:51",
+        "Usuario": "@user_92734",
+        "TextoPost": "Muito bom ver Porto Real virando referência em sustentabilidade. Os novos carregadores rápidos salvam o dia! 🙌"
+    },
+    {
+        "IDPost": "POST_20",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-04-21 12:04:02",
+        "Usuario": "@user_25873",
+        "TextoPost": "Finalmente eletropostos de verdade no Bairro das Nações! Tudo limpo, rápido e funcionando perfeitamente."
+    },
+    {
+        "IDPost": "POST_21",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-01-28 01:05:28",
+        "Usuario": "@user_16466",
+        "TextoPost": "Adorei o atendimento do suporte da @LuminaEnergy na estação Novo Horizonte. Resolveram meu problema na hora! 👍"
+    },
+    {
+        "IDPost": "POST_22",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-14 01:12:17",
+        "Usuario": "@user_1190",
+        "TextoPost": "Motorista de aplicativo aqui. Com esses novos postos de 750V no Portal do Vale, meu lucro aumentou muito. Valeu!"
+    },
+    {
+        "IDPost": "POST_23",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-05-01 12:57:29",
+        "Usuario": "@user_16504",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_24",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-04-08 13:54:47",
+        "Usuario": "@user_87168",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_25",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-03-29 07:49:04",
+        "Usuario": "@user_86336",
+        "TextoPost": "Fiquei preso no eletroposto da Estação Central porque a tensão caiu para zero do nada. Que decepção total."
+    },
+    {
+        "IDPost": "POST_26",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-01-21 20:07:59",
+        "Usuario": "@user_36228",
+        "TextoPost": "Finalmente eletropostos de verdade no Bairro das Nações! Tudo limpo, rápido e funcionando perfeitamente."
+    },
+    {
+        "IDPost": "POST_27",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-04-14 12:10:05",
+        "Usuario": "@user_23361",
+        "TextoPost": "Mais uma vez fila imensa no eletroposto de Porto Novo porque metade dos carregadores está quebrada de novo. Vergonha."
+    },
+    {
+        "IDPost": "POST_28",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-02-08 03:23:52",
+        "Usuario": "@user_70068",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_29",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-03-26 15:09:23",
+        "Usuario": "@user_71814",
+        "TextoPost": "Aplicativo da Lumina atualizou e agora dá para reservar a vaga de recarga antes de chegar. Sensacional!"
+    },
+    {
+        "IDPost": "POST_30",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-03-10 10:43:35",
+        "Usuario": "@user_67538",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_31",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-07 19:20:56",
+        "Usuario": "@user_51465",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_32",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-03-15 17:26:38",
+        "Usuario": "@user_42036",
+        "TextoPost": "Muito bom ver Porto Real virando referência em sustentabilidade. Os novos carregadores rápidos salvam o dia! 🙌"
+    },
+    {
+        "IDPost": "POST_33",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-05-17 10:23:15",
+        "Usuario": "@user_98730",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_34",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-20 11:46:45",
+        "Usuario": "@user_37313",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_35",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-04-21 05:36:22",
+        "Usuario": "@user_50907",
+        "TextoPost": "Adorei o atendimento do suporte da @LuminaEnergy na estação Novo Horizonte. Resolveram meu problema na hora! 👍"
+    },
+    {
+        "IDPost": "POST_36",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-10 19:05:30",
+        "Usuario": "@user_90386",
+        "TextoPost": "Minha recarga foi interrompida três vezes sozinhas na Vila Elétrica. O app travou e continuou descontando meu saldo! 🤬"
+    },
+    {
+        "IDPost": "POST_37",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-02-01 13:32:31",
+        "Usuario": "@user_90460",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_38",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-05-14 07:21:42",
+        "Usuario": "@user_19776",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_39",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-04 10:15:18",
+        "Usuario": "@user_43868",
+        "TextoPost": "Finalmente eletropostos de verdade no Bairro das Nações! Tudo limpo, rápido e funcionando perfeitamente."
+    },
+    {
+        "IDPost": "POST_40",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-03-19 13:44:23",
+        "Usuario": "@user_72362",
+        "TextoPost": "Finalmente eletropostos de verdade no Bairro das Nações! Tudo limpo, rápido e funcionando perfeitamente."
+    },
+    {
+        "IDPost": "POST_41",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-04-12 01:06:21",
+        "Usuario": "@user_24456",
+        "TextoPost": "Aplicativo da Lumina atualizou e agora dá para reservar a vaga de recarga antes de chegar. Sensacional!"
+    },
+    {
+        "IDPost": "POST_42",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-02-14 00:33:09",
+        "Usuario": "@user_92811",
+        "TextoPost": "Aplicativo da Lumina atualizou e agora dá para reservar a vaga de recarga antes de chegar. Sensacional!"
+    },
+    {
+        "IDPost": "POST_43",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-03 20:33:43",
+        "Usuario": "@user_6509",
+        "TextoPost": "Mais uma vez fila imensa no eletroposto de Porto Novo porque metade dos carregadores está quebrada de novo. Vergonha."
+    },
+    {
+        "IDPost": "POST_44",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-04-07 04:47:01",
+        "Usuario": "@user_47707",
+        "TextoPost": "Minha recarga foi interrompida três vezes sozinhas na Vila Elétrica. O app travou e continuou descontando meu saldo! 🤬"
+    },
+    {
+        "IDPost": "POST_45",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-05-08 10:02:59",
+        "Usuario": "@user_98827",
+        "TextoPost": "Minha recarga foi interrompida três vezes sozinhas na Vila Elétrica. O app travou e continuou descontando meu saldo! 🤬"
+    },
+    {
+        "IDPost": "POST_46",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-26 02:49:49",
+        "Usuario": "@user_42413",
+        "TextoPost": "Motorista de aplicativo aqui. Com esses novos postos de 750V no Portal do Vale, meu lucro aumentou muito. Valeu!"
+    },
+    {
+        "IDPost": "POST_47",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-04-28 11:23:51",
+        "Usuario": "@user_63765",
+        "TextoPost": "Mais uma vez fila imensa no eletroposto de Porto Novo porque metade dos carregadores está quebrada de novo. Vergonha."
+    },
+    {
+        "IDPost": "POST_48",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-05-02 12:01:03",
+        "Usuario": "@user_47132",
+        "TextoPost": "Fiquei preso no eletroposto da Estação Central porque a tensão caiu para zero do nada. Que decepção total."
+    },
+    {
+        "IDPost": "POST_49",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-05-18 17:26:49",
+        "Usuario": "@user_22238",
+        "TextoPost": "Finalmente eletropostos de verdade no Bairro das Nações! Tudo limpo, rápido e funcionando perfeitamente."
+    },
+    {
+        "IDPost": "POST_50",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-05-06 01:13:54",
+        "Usuario": "@user_9644",
+        "TextoPost": "Muito bom ver Porto Real virando referência em sustentabilidade. Os novos carregadores rápidos salvam o dia! 🙌"
+    },
+    {
+        "IDPost": "POST_51",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-27 11:58:11",
+        "Usuario": "@user_99437",
+        "TextoPost": "Alguém mais notou que o aplicativo de faturamento da Lumina está cobrando valores errados nas últimas recargas?"
+    },
+    {
+        "IDPost": "POST_52",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-04-06 01:06:05",
+        "Usuario": "@user_98090",
+        "TextoPost": "Finalmente eletropostos de verdade no Bairro das Nações! Tudo limpo, rápido e funcionando perfeitamente."
+    },
+    {
+        "IDPost": "POST_53",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-02-24 10:55:11",
+        "Usuario": "@user_84142",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_54",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-05-15 03:23:03",
+        "Usuario": "@user_35579",
+        "TextoPost": "Aplicativo da Lumina atualizou e agora dá para reservar a vaga de recarga antes de chegar. Sensacional!"
+    },
+    {
+        "IDPost": "POST_55",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-04-20 02:28:17",
+        "Usuario": "@user_92555",
+        "TextoPost": "Parabéns @LuminaEnergy! O novo eletroposto do Centro Histórico ficou show! Carregou meu ônibus voando! ⚡"
+    },
+    {
+        "IDPost": "POST_56",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-05-01 13:09:53",
+        "Usuario": "@user_62621",
+        "TextoPost": "Fiquei preso no eletroposto da Estação Central porque a tensão caiu para zero do nada. Que decepção total."
+    },
+    {
+        "IDPost": "POST_57",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-05-05 06:12:59",
+        "Usuario": "@user_48948",
+        "TextoPost": "Aplicativo da Lumina atualizou e agora dá para reservar a vaga de recarga antes de chegar. Sensacional!"
+    },
+    {
+        "IDPost": "POST_58",
+        "Plataforma": "X/Twitter",
+        "DataPostagem": "2026-04-28 10:14:05",
+        "Usuario": "@user_36792",
+        "TextoPost": "Um absurdo a falta de energia nos carregadores do Parque Tecnológico hoje cedo. Que serviço péssimo! 😡"
+    },
+    {
+        "IDPost": "POST_59",
+        "Plataforma": "LinkedIn",
+        "DataPostagem": "2026-03-13 04:03:23",
+        "Usuario": "@user_87510",
+        "TextoPost": "Minha recarga foi interrompida três vezes sozinhas na Vila Elétrica. O app travou e continuou descontando meu saldo! 🤬"
+    },
+    {
+        "IDPost": "POST_60",
+        "Plataforma": "Instagram",
+        "DataPostagem": "2026-01-06 04:53:51",
+        "Usuario": "@user_73875",
+        "TextoPost": "Motorista de aplicativo aqui. Com esses novos postos de 750V no Portal do Vale, meu lucro aumentou muito. Valeu!"
+    }
+]
